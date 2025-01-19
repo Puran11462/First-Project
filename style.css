@@ -53,6 +53,15 @@ p{
     color:#555;
     font-size:1.1rem;
 }
+blockquote {
+    font-style: italic;             
+    color: #4a4a4a;                  
+    border-left: 5px solid #3c6296;  
+    padding: 10px 20px;              
+    margin: 20px 0;                  
+    background-color: #e9ecef;       
+    border-radius: 8px;              
+}
 ul{
     list-style:disc;
     padding-left:40px;
